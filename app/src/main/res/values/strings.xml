@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LivedatawithMVVM</string>
+    <string name="button_text">Increment</string>
+    <string name="initial_text">0</string>
 </resources>
